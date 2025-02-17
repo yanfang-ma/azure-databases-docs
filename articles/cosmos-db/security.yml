@@ -59,30 +59,18 @@ landingContent:
         links:
           - text: Overview
             url: mongodb/security/index.md
-      - linkListType: how-to-guide
-        links:
-          - text: Disable key-based authentication
-            url: mongodb/security/how-to-disable-key-based-authentication.md
   - title: Azure Cosmos DB for Apache Cassandra (RU-based)
     linkLists:
       - linkListType: overview
         links:
           - text: Overview
             url: cassandra/security/index.md
-      - linkListType: how-to-guide
-        links:
-          - text: Disable key-based authentication
-            url: cassandra/security/how-to-disable-key-based-authentication.md
   - title: Azure Cosmos DB for Apache Gremlin
     linkLists:
       - linkListType: overview
         links:
           - text: Overview
             url: gremlin/security/index.md
-      - linkListType: how-to-guide
-        links:
-          - text: Disable key-based authentication
-            url: gremlin/security/how-to-disable-key-based-authentication.md
   - title: Azure Cosmos DB for Table
     linkLists:
       - linkListType: overview
